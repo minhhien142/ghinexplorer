@@ -1,0 +1,1 @@
+jar cvfm GhinExplorer.jar C:\javaappl\GhinExplorer\MyMANIFEST.MF *.class *.png *.gif
